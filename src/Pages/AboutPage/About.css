@@ -1,0 +1,70 @@
+.container
+{
+  display: flex;
+  flex-direction: row;
+
+
+}
+
+.about-logo img
+{
+  position: absolute;
+width: 466px;
+height: 536px;
+left: 56px;
+top: 150vh;
+
+
+}
+
+.about-title
+{
+  position: absolute;
+width: 550px;
+height: 83px;
+left: 685px;
+top: 140vh;
+
+font-family: 'Syncopate';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 83px;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: capitalize;
+
+color: #000000;
+
+  
+}
+
+.about-content
+{
+  border: 3px solid black;
+  width: 250vh;
+height: 505px;
+left: 607px;
+margin-top: 50vh;
+margin-left: 70vh;
+border-bottom: 4px solid black;
+box-shadow: 5px 10px;
+
+}
+
+.about-content  p 
+{
+  font-family: 'Arapey';
+  font-style: normal;
+  font-size: 35px;
+  top: 196.59px;
+}
+
+
+@media only screen and (max-width: 600px) {
+  
+ 
+
+
+}
